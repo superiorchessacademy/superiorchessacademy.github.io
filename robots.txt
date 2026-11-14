@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://superiorchessacademy.github.io/sitemap.xml
